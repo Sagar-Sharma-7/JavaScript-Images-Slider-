@@ -4,9 +4,8 @@
 <br>
 <p align="center">
 
-  <video width="100%" height="100%" controls>
-  <source src="public/video/result.mp4" type="video/mp4">
-</video>
+<a href="#"><img src="https://i.imgflip.com/4xylrr.gif" width="80%"></a>
+
 </p>
 <br>
 
@@ -29,7 +28,7 @@
  ## Cloning this repositary using command line
  1. Open **Git Bash**.
  1. Change the current working directory to the location where you want the cloned directory.
- 1. Type `git clone https://github.com/Sagar-Sharma-7/JavaScript-Images-Slider.git`
+ 1. Type `git clone https://github.com/Sagar-Sharma-7/JavaScript-Images-Slider-.git`
  1. Press **Enter** to create your clone.
 
 
