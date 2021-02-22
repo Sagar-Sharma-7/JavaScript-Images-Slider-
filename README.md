@@ -1,6 +1,8 @@
 ## Hi, I'm Sagar Sharma
 ## This is my new project called **_JavaScript Images Slider_**. 
 
+### [view demo](https://sagar-sharma-7.github.io/JavaScript-Images-Slider-/public/index.html)
+
 <br>
 <p align="center">
 
